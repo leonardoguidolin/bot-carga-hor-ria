@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-AJUDA A PREENCHER O CONTEÚDO PROGRAMÁTICO E MINISTRADO
+AJUDA A APROVAR AS HORAS COMPLEMENTARES
 """
 import pyautogui
 import time
